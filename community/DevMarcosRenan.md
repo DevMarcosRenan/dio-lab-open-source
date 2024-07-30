@@ -6,7 +6,7 @@
 
 
  <h2>Sobre mim</h2> 
-Universitário de Engenharia de Software e apaixonado por tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End.
+Universitário de Engenharia de Software e apaixonado por tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End utilizando Java com SpringFramework.
 
 <h2>Redes Sociais</h2>
 
